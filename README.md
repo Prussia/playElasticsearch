@@ -1,5 +1,7 @@
 # playElasticsearch
 
+[sample project](https://github.com/Prussia/spring-data-elasticsearch-sample-application)
+
 index -> 索引
 - where ES saves the data like the database of relational DB
 
