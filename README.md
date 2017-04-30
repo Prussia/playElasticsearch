@@ -9,7 +9,7 @@ type -> 类型
 field -> 列
 - like column in the relational DB
 
-token -> 表征
+token -> 词元
 
 filter -> 过滤器
 
