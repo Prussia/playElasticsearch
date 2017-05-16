@@ -6,6 +6,6 @@
     
     - The standard analyzer is the default analyzer that Elasticsearch uses. It is the best general choice for analyzing text that may be in any language. It splits the text on word boundaries, as defined by theUnicode Consortium, and removes most punctuation. Finally, it lowercases all terms. 
 
-Step 1 字符过滤（Character filter）
-Step 2 分词 （Tokenization）
-Step 3 Token 过滤（Token filtering）
+1. Character filter(字符过滤)
+2. Tokenization    (分词)
+3. Token filtering (词元过滤)
