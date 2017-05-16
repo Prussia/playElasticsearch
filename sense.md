@@ -10,5 +10,9 @@ GET _search
 }
 ```
 
+```
+DELETE /twitter
+```
+
 
 
