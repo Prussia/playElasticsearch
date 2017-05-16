@@ -4,7 +4,7 @@
 
 - [Key Words](./keywords.md)
 - [Input and Search by kibana](./kibana.md)
-- [Spring Data Elasticsearch](./Spring Data Elasticsearch Spring Boot version matrix.md)
+- [Spring Data Elasticsearch](./spring_matrix.md)
 - [ES in Baidu](./es_in_baidu.md)
 - [ELK](./elk.md)
 
