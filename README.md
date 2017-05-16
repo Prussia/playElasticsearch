@@ -2,23 +2,27 @@
 
 [sample project](https://github.com/Prussia/spring-data-elasticsearch-sample-application)
 
-index -> 索引
-- where ES saves the data like the database of relational DB
+- full text search ->  全文搜索
 
-type -> 类型
-- like tables in relational DB. 
+- index -> 索引
+     
+      - where ES saves the data like the database of relational DB
 
-field -> 列
-- like column in the relational DB
+- type -> 类型
 
-token -> 词元
+      - like tables in relational DB. 
 
-filter -> 过滤器
+- field -> 列
+ - like column in the relational DB
 
-analyser -> 分析器
+- token -> 词元
 
-shard -> 分片
-- 这是ES提供分布式搜索的基础，其含义为将一个完整的index分成若干部分存储在相同或不同的节点上，这些组成index的部分就叫做shard
+- filter -> 过滤器
 
-replica -> 负载备份
+- analyser -> 分析器
+
+- shard -> 分片
+ - 这是ES提供分布式搜索的基础，其含义为将一个完整的index分成若干部分存储在相同或不同的节点上，这些组成index的部分就叫做shard
+
+- replica -> 负载备份
 
