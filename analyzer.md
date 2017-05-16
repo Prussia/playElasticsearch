@@ -11,3 +11,5 @@
      2. Tokenization    (分词)
      3. Token filtering (词元过滤)
 - ![alt tag](./pic/flow.png)
+- ![alt tag](./pic/custom_analyzers_diag.png)
+
