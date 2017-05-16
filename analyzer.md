@@ -10,4 +10,4 @@
      1. Character filter(字符过滤)
      2. Tokenization    (分词)
      3. Token filtering (词元过滤)
-- ![alt tag](./pic/microservices_architecture_2.png)
+- ![alt tag](./pic/flow.png)
