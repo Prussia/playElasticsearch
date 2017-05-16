@@ -8,10 +8,16 @@ GET _search
     "match_all": {}
   }
 }
-```
 
-```
 DELETE /twitter
+
+PUT /twitter/user/prussia?pretty
+{
+  "name": "Prussia Hu"
+}
+
+GET /twitter/user/prussia?pretty=true
+
 ```
 
 
