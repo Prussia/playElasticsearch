@@ -18,7 +18,7 @@
 
 - filter -> 过滤器
 
-- analyser -> 分析器
+- [analyser -> 分析器](./analyzer.md)
 
 - shard -> 分片
           
